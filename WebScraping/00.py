@@ -55,6 +55,7 @@ print(80*'-')
 #del tag['atributo-newman']
 print(tag)
 print(tag.get('id'))
+
 print(80*'-')
 print(tag.attrs.pop('id', None))
 print(tag)

@@ -1,3 +1,5 @@
+import pandas as pd
+
 from conexion import conexion
 
 url = 'https://es.wikipedia.org/wiki/Jesse_Helms'
@@ -16,6 +18,14 @@ df = pd.DataFrame([info_dic])
 print(df)
 df.to_csv('papo.csv', index=False)'''
 print(80*'--')
-print(soup.tbody.find_all('tr'))
-for i in soup.tbody:
-    print(i.tr.th['class'])
+#print(soup.tbody.find_all('tr'))
+dict_val = {'Titulo': soup.find('span', class_='mw-page-title-main').text}
+for i in soup.tbody.find_all('tr'):
+    th = i.find('th')
+    td = i.find('td')
+    if th is not None and td is not None:
+        clave = th.text.strip()
+        valor = td.text.strip()
+        dict_val[clave] = valor
+df = pd.DataFrame([dict_val])
+df.to_csv('final.csv', index=False)
