@@ -28,4 +28,4 @@ for i in soup.tbody.find_all('tr'):
         valor = td.text.strip()
         dict_val[clave] = valor
 df = pd.DataFrame([dict_val])
-df.to_csv('final.csv', index=False)
+#df.to_csv('final.csv', index=False)
