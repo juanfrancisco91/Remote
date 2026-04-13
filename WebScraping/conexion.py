@@ -13,4 +13,4 @@ def conexion(url,user_agent):
         print('La Conexion a sido un Exito')
         return soup
     else:
-        return print('Conexion Fallida ')
+        return print('Conexion Fallida')
