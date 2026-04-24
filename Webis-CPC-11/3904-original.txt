@@ -1,0 +1,22 @@
+By this means a gradually increasing or decreasing current is at each instant indicated at
+its due strength. Thus, when this galvanometer is placed as the receiving-instrument at the
+end of a long submarine cable, the movement of the spot of light, consequent on the completion
+of a circuit through the battery, cable, and earth, can be so observed as to furnish a curve
+representing very accurately the arrival of an electric current. Lines representing successive
+signals at various speeds can also be obtained, and, by means of a metronome, dots and dashes
+can be sent with nearly perfect regularity by an ordinary Morse key, and the corresponding
+changes in the current at the receiving end of the cable accurately observed.
+
+A system of arbitrary characters, similar to those used upon the Morse telegraph, was employed,
+and the letter to be indicated was determined by the number of oscillations of the needle,
+as well as by the length of time during which the needle remained in one place. The operator,
+who watched the reflection of the deflected needle in the mirror, held a key in his hand communicating
+with a local instrument in the office, which he pressed down or raised, according to the deflection
+of the needle; and another operator deciphered the characters thus produced upon the paper.
+This mode of telegraphing was, of necessity, very slow, and it will not surprise the reader
+that the fastest rate of speed over the cable did not exceed three words per minute. Still,
+had the old cable continued in operation a few months longer, experience and practice would
+have enabled the operator to transmit and receive with very much greater facility. On our land-lines,
+operators of long experience acquire a dexterity which enables them not only to transmit and
+receive telegrams with wonderful rapidity, but to work the instruments during storms, when
+those of less experience would be unable to receive a dot.

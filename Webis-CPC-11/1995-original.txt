@@ -1,0 +1,7 @@
+It is probable that the wind pressure is not strictly proportional
+to the extent of the surface exposed. Pressure plates are generally of moderate size, from
+a half or quarter of a sq. ft. up to two or three sq. ft., are round or square, and for these
+sizes, and shapes, and of course for a flat surface, the relation P=.003 v^2 is fairly correct.
+
+In the tube anemometer also it is really the pressure that is measured, although the scale
+is usually graduated as a velocity scale.

@@ -1,0 +1,1 @@
+Proper classification of a case is very important. Case cannot be classified without knowing each case in detail. Therefore counting cases which have not been classifed correctly will give a misleading information. This method will lead to inaccurate results. One has to find out a way to classify a case accurately.

@@ -1,0 +1,13 @@
+CYANIDE TESTING BY TITRATION WITH SILVER NITRATE
+
+On the basis of the amount of silver nitrate required to form potassium silver cyanide [39] from cyanide in the solution, we are determining the amount of cyanide present.
+
+Among the weight of silver nitrate. 170 parts are needed for 130 parts of potassium cyanide.
+
+Usually the strength of cyanide is addressed in terms of potassium.1.3076 gram of silver nitrate is required for one gram potassium cyanide. For making a standard solution of silver nitrate, 13.076 grams of silver nitrate is mixed with distilled water and making a diluted solution of quantity, one litre and one gram potassium cyanide equals 100 c.c of such solution.
+
+The procedures for the titration are simple. The standard solution of silver nitrate is pumped into a solution which holds material containing the cyanide.
+
+Two ways are used commonly to determine the finishing point. In one way double cyanide is formed initially as a result of the combination between silver nitrate and the remaining free cyanide. As a result a clear solution is formed. When the free cyanide is over after the reactions, silver nitrate starts to react with double cyanide and as a result silver cyanide is formed. Silver cyanide will be a white precipitate which get separated and play the role to make solution turbid.
+
+In the second way of determining finishing point, the excess silver nitrate does react with potassium iodide [42] if the same is present. As a result the yellowish silver iodide is formed and obviously the solution turns yellow.

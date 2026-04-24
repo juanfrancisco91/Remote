@@ -1,0 +1,38 @@
+Suppose the current has been perfectly steady, that is, the
+same number of electrons streaming through the circuit each second. Then if we know how long
+the current has been running we can tell how much silver has been deposited each second.
+
+The law says that if silver is being deposited at the rate of 0.001118 gram each second then
+the current is one ampere. That's a small amount of silver, only about a thousandth part of
+a gram, and you know that it takes 28.35 grams to make an ounce. It's a very small amount of
+silver but it's an enormous number of atoms. How many? Six billion billion, of course, for
+there is deposited one atom for each electron in the stream.
+
+In my next letter I'll tell you how we measure the pull which batteries can give to electrons,
+and then we shall be ready to go on with more about the audion.
+
+LETTER 8
+
+ELECTRON-MOVING-FORCES
+
+(This letter may be omitted on the first reading.)
+
+DEAR YOUNG MAN:
+
+I trust you have a fairly good idea that an ampere means a stream of electrons at a certain
+definite rate and hence that a current of say 3 amperes means a stream with three times as
+many electrons passing along each second.
+
+In the third and fourth letters you found out why a battery drives electrons around a conducting
+circuit. You also found that there are several different kinds of batteries. Batteries differ
+in their abilities to drive electrons and it is therefore convenient to have some way of comparing
+them. We do this by measuring the electron-moving-force or "electromotive force" which each
+battery can exert. To express electromotive force and give the results of our measurements
+we must have some unit. The unit we use is called the "volt."
+
+The volt is defined by law and is based on the suggestions of the same body of scientists who
+recommended the ampere of our last letter. They defined it by telling how to make a particular
+kind of battery and then saying that this battery had an electromotive force of a certain number
+of volts. One can buy such standard batteries, or standard cells as they are called, or he
+can make them for himself. To be sure that they are just right he can then send them to the
+Bureau of Standards and have them compared with the standard cells which the Bureau has.

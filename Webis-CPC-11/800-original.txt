@@ -1,0 +1,4 @@
+(A) Two pieces shall be tested from each heat of steel. If
+    either of these test pieces breaks, a third piece shall be tested.
+    If two of the test pieces break without showing physical defect, all
+    rails of the heat will be rejected absolutely.

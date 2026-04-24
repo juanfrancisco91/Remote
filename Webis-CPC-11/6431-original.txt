@@ -1,0 +1,51 @@
+
+Some high-class mineral oils of high viscosity are inclined to emulsify with water, which emulsion
+appears as a jelly-like substance. It might be added that high-grade oils having a high viscosity
+might not be the most suitable for turbine use.
+
+Since the consumption of oil in a turbine is so very small, being practically due only to leakage
+or spilling, the price paid for it should therefore be of secondary importance, the prime consideration
+being its suitability for the purpose.
+
+In some cases a central gravity system will be employed, instead of the oil system furnished
+with the turbine, which, of course, will be a special consideration.
+
+For large installations a central gravity oiling system has much to recommend it, but as it
+performs such an important function in the power plant, and its failure would be the cause
+of so much damage, every detail in connection with it should be most carefully thought out,
+and designed with a view that under no combination of circumstances would it be possible for
+the system to become inoperative. One of the great advantages of such a system is that it can
+be designed to contain very large quantities of oil in the settling tanks; thus the oil will
+have quite a long rest between the times of its being used in the turbine, which seems to be
+very helpful in extending the life of the oil. Where the oil can have a long rest for settling,
+an inferior grade of oil may be used, providing, however, that it is absolutely free of acid.
+
+V. PROPER METHOD OF TESTING A STEAM TURBINE[3]
+
+[3] Contributed to Power by Thomas Franklin.
+
+The condensing arrangements of a turbine are perhaps mainly instrumental in determining the
+method of test. The condensed steam alone, issuing from a turbine having, for example, a barometric
+or jet condenser, cannot be directly measured or weighed, unless by meter, and these at present
+are not sufficiently accurate to warrant their use for test purposes, if anything more than
+approximate results are desired. The steam consumed can, in such a case, only be arrived at
+by measuring the amount of condensing water (which ultimately mingles with the condensed steam),
+and subtracting this quantity from the condenser's total outflow. Consequently, in the case
+of turbines equipped with barometric or jet condensers, it is often thought sufficient to rely
+upon the measurement taken of the boiler feed, and the boiler's initial and final contents.
+Turbines equipped with surface-condensing plants offer better facilities for accurate steam-consumption
+calculations than those plants in which the condensed exhaust steam and the circulating water
+come into actual contact, it being necessary with this type simply to pump the condensed steam
+into a weighing or measuring tank.
+
+In the case of a single-flow turbine of the Parsons type, the covers should be taken off and
+every row of blades carefully examined for deposits, mechanical irregularities, deflection
+from the true radial and vertical positions, etc. The blade clearances also should be gaged
+all around the circumference, to insure this clearance being an average working minimum. On
+no account should a test be proceeded with when any doubt exists as to the clearance dimensions.
+
+The dummy rings of a turbine, namely, those rings which prevent excessive leakage past the
+balancing pistons at the high-pressure end, should have especial attention before a test. A
+diagrammatic sketch of a turbine cylinder and spindle is shown in Fig. 60, for the benefit
+of those unfamiliar with the subject. In this A is the cylinder or casing, B the spindle or
+rotor, and C the blades.

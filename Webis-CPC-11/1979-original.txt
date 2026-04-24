@@ -1,0 +1,17 @@
+Sidenotes are enclosed in braces, prefixed with "SN" and placed before
+  the paragraph in which they appear.
+
+  Transcriber's notes in the text are enclosed in braces and prefixed with
+  "TN".
+}
+
+  A
+  NEVV ORCHARD
+  AND GARDEN
+
+  OR
+
+  The best way for planting, grafting, and to make
+  any ground good, for a rich Orchard: Particularly in the North,
+  and generally for the whole kingdome of England, as in nature,
+  reason, situation, and all probabilitie, may and doth appeare.

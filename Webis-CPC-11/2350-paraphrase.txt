@@ -1,0 +1,8 @@
+B.
+
+Anagrams:
+
+In the sentences below, the words in capitals are anagrams of other words.  So "Battle-Screens"
+is one compound word that can be made into another that uses the same letters but arranged differently.  In this case, that would be "Center-Table," but the rest of them are not compound, but single words.
+
+I saw Tent Suds by the Battle-Screens puzzling over The Mica Mats, and perplexed about Many Roots.

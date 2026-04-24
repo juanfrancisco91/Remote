@@ -1,0 +1,51 @@
+
+During a consumption test the valves are operated in the following manner: The lever K is pulled
+down, which opens the inlet valve to the first tank and closes that to the second. The bottom
+lever L, however, is lifted, which for the time being opens the outlet valve F, and incidentally
+opens the valve G; the latter valve can; however, for the moment be neglected. When the turbine
+is started, and the condensed steam begins to accumulate in the condenser, the water is pumped
+along the pipes and, both the inlet and outlet valves on the first tank being open, passes
+through, without any being deposited in the tank, to the drain. This may be continued until
+all conditions are right for a consumption test and, the time being carefully noted, lever
+L is quickly pulled down and the valves F and G closed. The first tank now gradually fills,
+and after a definite period, say fifteen minutes, the lever K is pushed up, thus diverting
+the flow into the second tank. While the latter is filling, the water in the first tank is
+measured, and the tank emptied by a large sluice valve, not shown.
+
+The operation of alternately filling, measuring, and emptying the two measuring tanks is thus
+carried on until the predetermined time of duration of test has expired, when the total water
+as measured in the tanks, and representing the amount of steam condensed during that time,
+is easily found by adding together the quantities given at each individual measurement.
+
+All that are necessary to insure successful results from a plant similar to this are care and
+accuracy in its operation and construction. Undoubtedly in most cases it is preferable to weigh
+the condensed steam instead of measuring the volume passed, and from that to calculate the
+weight. If dependence is being placed upon the volumetric method, it is advisable to lengthen
+the duration of the test considerably, and if possible to measure the feed-water evaporated
+at the same time. Such a course, however, would necessitate little change, and none of a radical
+nature, from the arrangement described. Where, however, the measuring method is adopted, the
+all-important feature, requiring on the tester's part careful personal investigation, is the
+graduation of the tanks. It facilitates this operation very considerably when the receptacles
+are graduated upon a weight scale. That is to say, whether or not a vertical scale showing
+the actual hight of water be placed inside the tank, it is advisable to have a separate scale
+indicating at once to the attendant the actual contents, by weight, of the tank at any time.
+It is the tester's duty to himself to check the graduation of this latter scale by weighing
+the water with which he performs the operation of checking.
+
+Apart from the foregoing, there is little to be said about the measuring apparatus. As has
+been stated, accuracy of result depends in this connection, as in all others, upon careful
+supervision and sound and accurate construction, and this the tester can only positively insure
+by exhaustive inspection in the one case and careful deliberation in the conduct of the other.
+
+It will be readily understood that the procedure--and this implies some limitations--of a test
+is to an extent controlled by the conditions, or particular environment of the moment. This
+is strictly true, and as a consequence it is often impossible, in a maker's works, for example,
+to obtain every condition, coinciding with those specified, which are to be had on the site
+of final operation only. For this reason it would appear best to reserve the final and crucial
+test of a machine, which test usually in the operating sense restricts a prime mover in certain
+directions with regard to its auxiliary plant, etc., until the machine has been finally erected
+on its site. Obviously, unless a machine had become more or less standardized, a preliminary
+consumption test would be necessary, but once this primary qualification respecting consumption
+had been satisfactorily settled, there appears to be no reason why exhaustive tests in other
+directions should not all be carried out upon the site, where the conditions for them are so
+much more favorable.

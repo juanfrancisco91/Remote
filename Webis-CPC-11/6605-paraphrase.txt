@@ -1,0 +1,33 @@
+Utilitarian objections are manifest, and since confusion of words is not confined to homophones, the practical inconvenience that is sometimes occasioned by slight similarities may properly be alleged to illustrate and enforce the argument.
+
+I will give only one example.
+
+[Sidenote: Utilitarian objections not confined to homophones.]
+
+The telephone, which seems to lower the value of differentiating consonants, has revealed unsuspected likenesses. Both these pairs caused confusion; the first of them was cured by substituting the name of the letter O for the name of the zero cipher, which happens to be identical with it in form,[9] and this introduced a ninth vowel sound ou (= owe), but the other pair remained such a constant source of error, that persons who had their house put on the general telephonic system would request the Post Office to give them a number that did not contain a 9 or a 5; and it is pretty certain that had not the system of automatic dialling, which was invented for quite another purpose, got rid of the trouble, one of these two ciphers would have changed its name at the Post Office.
+
+[Footnote 9: There is a coincidence of accidents--that the Arabic sign for zero is the same with our letter O, and that the name of our letter O (= owe) is the same as the present tense of ought, which is the vulgar name (for nought) of the Arabic zero, and that its vowel does not occur in the name of any cipher.]
+
+[Sidenote: Æsthetic objections.]
+
+In the effect of uniformity it may be said that utilitarian and æsthetic considerations are generally at one; and this blank statement must here suffice, for the principle could not be briefly dealt with: but it follows from it that the proper æsthetic objections to homophones are never clearly separable from the scientific.
+
+I submit the following considerations.
+
+Any one who seriously attempts to write well-sounding English will be aware how delicately sensitive our ear is to the repetition of sounds. He will often have found it necessary to change some unimportant word because its accented vowel recalled and jarred with another which was perhaps as far as two or three lines removed from it: nor does there seem to be any rule for this, since apparently similar repetitions do not always offend, and may even be agreeable.
+
+The relation of the sound to the meaning is indefinable, but in homophones it is blatant; for instance the common expression It is well could not be used in a paragraph where the word well (= well-spring) had occurred. Now, this being so, it is very inconvenient to find the omnipresent words no and know excluding each other: and the same is true of sea and see; if you are writing of the sea then the verb to see is forbidden, or at least needs some handling.
+
+I see the deep's untrampled floor With green and purple seaweeds strewn:
+
+here seaweeds is risky, but I see the sea's untrampled floor would have been impossible: even the familiar
+
+The sea saw that and fled
+
+is almost comical, especially because 'sea saw' has a most compromising joint-tenant in the children's rocking game
+
+See saw Margery daw.
+
+The awkwardness of these English homophones is much increased by the absence of inflection, and I suppose it was the richness of their inflections which made the Greeks so indifferent (apparently) to syllabic recurrences that displease us: moreover, the likeness in sound between their similar syllables was much obscured by a verbal accent which respected the inflection and disregarded the stem, whereas our accent is generally faithful to the root.[10] This sensitiveness to the sound of syllables is of the essence of our best English, and where the effect is most magical in our great poets it is impossible to analyse.
+
+[Footnote 10: Wherever this is not so--as in rhétoric, rhetórical, rhetorícian, cómpany, compánion, &c.--we have a greater freedom in the use of the words. Such words, as Dr. Bradley points out, giving Cánada, Canádian as example, are often phonetic varieties due to an imported foreign syntax, and their pronunciation implies familiarity with literature and the written forms: but very often they are purely the result of our native syllabising, not only in displacement of accent (as in the first example above) but also by modification of the accented vowel according to its position in the word, the general tendency being to make long vowels in monosyllables and in penultimate accents, but short vowels in antepenultimate accents.

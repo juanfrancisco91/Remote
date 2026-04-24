@@ -1,0 +1,58 @@
+As the capacity
+whose effects are to be neutralized is distributed uniformly throughout the line, the counteracting
+inductance must also be distributed throughout the line. Mere increase of distance between
+two wires of the line very happily acts both to increase the inductance and to lower the capacity;
+unhappily for practical results, the increase of separation to bring the qualities into useful
+neutralizing relation is beyond practical limits. The wires would need to be so far above the
+earth and so far apart as to make the arrangement commercially impossible.
+
+Practical results have been secured in increasing the distributed inductance by wrapping fine
+iron wire over each conductor of the line. Such a treatment increases the inductance and improves
+transmission.
+
+The most marked success has come as a result of the studies of Professor Michael Idvorsky Pupin.
+He inserts inductances in series with the wires of the line, so adapting them to the constants
+of the circuit that attenuation and distortion are diminished in a gratifying degree. This
+method of counteracting the effects of a distributed capacity by the insertion of localized
+inductance requires not only that the requisite total amount of inductance be known, but that
+the proper subdivision and spacing of the local portions of that inductance be known.
+
+     NOTE. United States Letters Patent were issued to Professor Pupin
+     on June 19, 1900, upon his practical method of reducing
+     attenuation of electrical waves. A paper upon "Propagation of
+     Long Electric Waves" was read by Professor Pupin before the
+     American Institute of Electrical Engineers on March 22, 1899, and
+     appears in Vol. 15 of the Transactions of that society. The
+     student will find these documents useful in his studies on the
+     subject. He is referred also to "Electrical Papers" and
+     "Electromagnetic Theory" of Oliver Heaviside.
+
+Professor Pupin likens the transmission of electric waves over long-distance circuits to the
+transmission of mechanical waves over a string. Conceive an ordinary light string to be fixed
+at one end and shaken by the hand at the other; waves will pass over the string from the shaken
+to the fixed end. Certain reflections will occur from the fixed end. The amount of energy which
+can be sent in this case from the shaken to the fixed point is small, but if the string be
+loaded by attaching bullets to it, uniformly throughout its length, it now may transmit much
+more energy to the fixed end.
+
+The addition of inductance to a telephone line is analogous to the addition of bullets to the
+string, so that a telephone line is said to be loaded when inductances are inserted in it,
+and the inductances themselves are known as loading coils.
+
+Fig. 35 shows the general relation of Pupin loading coils to the capacity of the line. The
+condensers of the figure are merely conventionals to represent the condenser which the line
+itself forms. The inductances of the figure are the actual loading coils.
+
+The loading of open wires is not as successful in practice as is that of cables. The fundamental
+reason lies in the fact that two of the properties of open wires--insulation and capacity--vary
+with atmospheric change. The inserted inductance remaining constant, its benefits may become
+detriments when the other two "constants" change.
+
+The loading of cable circuits is not subject to these defects. Such loading improves transmission;
+saves copper; permits the use of longer underground cables than are usable when not loaded;
+lowers maintenance costs by placing interurban cables underground; and permits submarine telephone
+cables to join places not otherwise able to speak with each other.
+
+Underground long-distance lines now join or are joining Boston and New York, Philadelphia and
+New York, Milwaukee and Chicago. England and France are connected by a loaded submarine cable.
+There is no theoretical reason why Europe and America should not speak to each other.

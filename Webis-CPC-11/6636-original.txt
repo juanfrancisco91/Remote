@@ -1,0 +1,13 @@
+THE ASSAY FOR CYANIDE BY TITRATION WITH SILVER NITRATE. 
+
+ The determination of the quantity of a cyanide is made by finding how much silver nitrate is required to convert the whole of the cyanide into potassium silver cyanide[39] or one of the allied compounds. 
+
+ It will be seen from the equation that 170 parts by weight of silver nitrate are required for 130 parts by weight of potassium cyanide. 
+
+ As already explained it is customary to report the cyanide-strength in terms of potassium cyanide, even when only the sodium salt is present. One gram of potassium cyanide will require 1.3076 gram of silver nitrate. The standard solution of silver nitrate is made by dissolving 13.076 grams of silver nitrate in distilled water and diluting to 1 litre; 100 c.c. of such a solution are equivalent to 1 gram of potassium cyanide.[40] 
+
+ The titration is performed in the usual way, running the standard solution of silver nitrate into a solution containing a known weight or volume of the material containing the cyanide. 
+
+ The finishing point is determined in one of two ways, both of which are largely used. In the first place, as long as there remains any free cyanide in the solution the silver nitrate will combine with it forming the double cyanide and yielding a clear solution; but as soon as all the free cyanide is used up the silver nitrate will react with the double cyanide[41] forming silver cyanide, which separates as a white precipitate and renders the solution turbid. 
+
+ But, in the second place, if potassium iodide is present in the solution the excess of silver nitrate will react with it,[42] rather than with the double cyanide; and silver iodide will separate as a yellowish turbidity which is easily recognised.

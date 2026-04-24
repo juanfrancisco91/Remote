@@ -1,0 +1,41 @@
+We can let the line, e f, represent the limit of resistance of the air if the field be drawn to scale; and we can thus trace the conditions that determine disruptive discharge.
+
+The earth-surface be not flat, but have a hill or a building, as H or L, upon it, then the lines of force and the equipotential planes will be distorted, as shown in Fig. 3. If the hill or building be so high as to make the distance H h or L l equal to e f (Fig. 2), then we shall again have disruptive discharge.
+
+Instead of a hill or building we erect a solid rod of metal, G H, then the field will be distorted as shown in Fig. 4. Now, it is quite evident that whatever be the relative distance of the cloud and earth, or whatever be the motion of the cloud, there must be a space, g g', along which the lines of force must be longer than a' a or H H'; and hence there must be a circle described around G as a center which is less subject to disruptive discharge than the space outside the circle; and hence this area may be said to be protected by the rod, G H. The same reasoning applies to each equipotential plane; and as each circle diminishes in radius as we ascend, it follows that the rod virtually protects a cone of space whose height is the rod, and whose base is the circle described by the radius, G a. It is important to find out what this radius is.
+
+Let us assume that a thunder-cloud is approaching the rod, A B (Fig. 5), from above, and that it has reached a point, D', where the distance. D' B, is equal to the perpendicular height, D' C'. It is evident that, if the potential at D be increased until the striking-distance be attained, the line of discharge will be along D' C or D' B, and that the length, A C', is under protection. Now the nearer the point D' is to D the shorter will be the length A C' under protection; but the minimum length will be A C, since the cloud would never descend lower than the perpendicular distance D C.
+
+Supposing, however, that the cloud had actually descended to D when the discharge took place.
+
+The latter would strike to the nearest point; and any point within the circumference of the portion of the circle, B C (whose radius is D B), would be at a less distance from D than either the point B or the point C.
+
+Hence a lightning-rod protects a conic space whose height is the length of the rod, whose base is a circle having its radius equal to the height of the rod, and whose side is the quadrant of a circle whose radius is equal to the height of the rod.
+
+I have carefully examined every record of accident that was available, and I have not yet found one case where damage was inflicted inside this cone when the building was properly protected.
+
+There are many cases where the pinnacles of the same turret of a church have been struck where one has had a rod attached to it; but it is clear that the other pinnacles were outside the cone; and therefore, for protection, each pinnacle should have had its own rod.
+
+It is evident also that every prominent point of a building should have its rod, and that the higher the rod the greater is the space protected.
+
+* * * * *
+
+PHOTO-ELECTRICITY OF FLUOR-SPAR CRYSTALS.
+
+Hantzel has communicated to the Saxon Royal Society of Science some interesting observations on the production of electricity by light in colored fluor-spar.
+
+The centers of the fluor-spar cubes become negatively electric by the action of light.
+
+The electric tension diminishes toward the edges and angles, and frequently positive polarity is produced there.
+
+With very sensitive crystals a short exposure to daylight is sufficient; by a long exposure to light the electric current increases.
+
+The direct rays of the sun act much more powerfully than diffused daylight, and the electric carbon light is more powerful even than sunlight. The photo-electric action of light belongs principally to the "chemically active" rays; this is shown by the fact that the production of electricity is extremely small behind a glass colored with cuprous oxide, and behind a film of a solution of quinine sulphate; while it is not appreciably diminished by a film of a solution of alum. The photo-electric excitability of fluor-spar crystals is increased by a moderate heat (80 deg. to 100 deg. C.).
+
+* * * * *
+
+THE AURORA BOREALIS AND TELEGRAPH CABLES.
+
+The January and February numbers of the Elektrotechnische Zeitschrift contain a number of articles on this interesting subject by several eminent electricians.
+
+Professor Foerster, director of the observatory in Berlin, points out the great importance of the careful study of earth currents, first observed at Greenwich, and now being investigated by a committee appointed by the German Government.

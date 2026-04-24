@@ -1,0 +1,7 @@
+Create Anagram Word-Squares:
+
+Create a word-square for each of the following sentences using only the letters that make up that sentence:
+1. Doctor, do Irish histories err?
+2. Let their hotel gardener grin.
+3. Post shall need man's sympathy.
+4. Hurrah, Peg has the gallant pup!

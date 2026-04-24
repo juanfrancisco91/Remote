@@ -1,0 +1,20 @@
+
+The electroscope is placed on a surface plate, or, at all events, on a sheet of plate glass,
+and a "scribing block" is placed along side it and the scriber adjusted to dip into the kerosene
+to any required depth.  This is done by twisting a bit of wire round the scribing point and
+allowing it to project downwards.  The point itself serves to give an idea of the height to
+which the vessel may be filled.  The liquid is adjusted till its surface is in contact with
+the end of the scribing point, and the wire then projects into the liquid and forms an electrode
+of constant area of surface.  The scribing block is put to earth.  A charge is given to the
+electroscope, and the time required for a given degree of collapse of the leaves noted.
+
+The kerosene is then removed and its place taken by vaseline or paraffin, known to insulate
+well as a standard for comparison.  The experiment is then repeated, and the time noted for
+the same degree of collapse.  This test, though of course rough, is generally quite sufficient
+for workshop purposes, and is easily applied.  Moreover, it does not require correction for
+electrometer leakage, as generally happens when more elaborate appliances are used.
+
+The actual resistance of insulating oils depends so much on the electrical intensity, on the
+duration of that intensity, and on the previous history of the oil as to the direction of the
+voltage to which it has been subjected--to say nothing of the effects of traces of moisture--that
+quantitative experiments are of no value unless they are extremely elaborate.

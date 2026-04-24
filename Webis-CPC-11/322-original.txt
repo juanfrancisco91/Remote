@@ -1,0 +1,4 @@
+
+To study the effect of the grid condenser you can arrange switches so as to insert this condenser
+and its leak and at the same time to cut out the C-battery. Fig. 115 shows how. You can measure
+the gain in audibility at the same time.

@@ -1,0 +1,47 @@
+In the year 1872 he had two patents granted him for improvement in water wheels, but never
+had any wheels built of that pattern. After completing and patents granted for his new improved
+Standard turbine, he was perfectly satisfied, and often remarked, "I cannot improve on my register
+gate turbine any more, as it is as near perfection as can be made," and he was fully convinced,
+for the past year he was experimenting with a cylinder gate turbine, and patent was granted
+Oct. 21, 1890. Previously he had made a 24-inch wheel, which was tested Aug. 14, 1890, at Holyoke
+testing flume, and gave fair results, and at the time of his demise he was having made a new
+runner for the cylinder gate turbine, which we will complete and have tested. His idea was
+to have us manufacture and sell register and cylinder gate turbines. His inventive powers were
+not confined to water wheels, for on Feb. 23, 1886, patents were granted him for automatic
+steam engine, governor and lubricating device. We also remember in the year 1873 or 1874, when
+his mind was occupied with his "Standard turbine," he was hindered by some device used now
+on locomotives of the present construction (what it was we are unable to say), but when draughting
+at his water wheel, would conflict the two, and by his invitation we wrote to a prominent locomotive
+builder and had him examine the drawings, which he had not fully completed, and sold same to
+him. Of this we only have a faint recollection, but do recollect his saying: "Well, that is
+off my mind now, and I can devote it to the finishing of my new wheel."--American Miller.
+
+       *       *       *       *       *
+
+ALTERNATE CURRENT CONDENSERS.
+
+At a recent meeting of the Physical Society, London, Mr. James Swinburne read a paper on alternate
+current condensers. It is, he said, generally assumed that there is no difficulty in making
+commercial condensers for high pressure alternating currents. The first difficulty is insulation,
+for the dielectric must be very thin, else the volume of the condenser is too great. Some dielectrics
+0.2 mm. thick can be made to stand up to 8,000 volts when in small pieces, but in complete
+condensers a much greater margin must be allowed. Another difficulty arises from absorption,
+and whenever this occurs, the apparent capacity is greater than the calculated. Supposing the
+fibers of paper in a paper condenser to be conductors embedded in insulating hydrocarbon, then
+every time the condenser is charged the fibers have their ends at different potentials, so
+a current passes to equalize them and energy is lost. This current increases the capacity.
+One condenser made of paper boiled in ozokerite took an abnormally large current and heated
+rapidly. At a high temperature it gave off water, and the power wasted and current taken gradually
+decreased.
+
+When a thin plate of mica is put between tin foils, it heats excessively; and the fall of potential
+over the air films separating the mica and foil is great enough to cause disruptive discharge
+to the surface of the mica. There appears to be a luminous layer of minute sparks under the
+foils, and there is a strong smell of ozone. In a dielectric which heats, there may be three
+kinds of conduction, viz., metallic, when an ordinary conductor is embedded in an insulator;
+disruptive, as probably occurs in the case of mica; and electrolytic, which might occur in
+glass. In a transparent dielectric the conduction must be either electrolytic or disruptive,
+otherwise light vibrations would be damped. The dielectric loss in a cable may be serious.
+Calculating from the waste in a condenser made of paper soaked in hot ozokerite, the loss in
+one of the Deptford mains came out 7,000 watts. Another effect observed at Deptford is a rise
+of pressure in the mains.

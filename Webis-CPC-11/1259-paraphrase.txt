@@ -1,0 +1,4 @@
+There are four requisite steps to examine, and they may be summarized in the following manner:
+(a) Test pipes and separators for oil drips.
+(b) Calculate amount of oil passing through every bearing for a given amount of time.
+(c) Test for determinants of water present in oil.

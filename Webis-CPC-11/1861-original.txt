@@ -1,0 +1,6 @@
+In quantitative analysis the methods can be subdivided into:
+(a) gravimetric, in which the constituent is precipitated either as a definite insoluble compound
+by the addition of certain reagents, or electrolytically, by the passage of an electric current;
+(b) volumetric, in which the volume of a reagent of a known strength which produces a certain
+definite reaction is measured; (c) colorimetric, in which the solution has a particular tint,
+which can be compared with solutions of known strengths.

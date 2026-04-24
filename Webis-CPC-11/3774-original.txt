@@ -1,0 +1,19 @@
+The gunner laid the long arm of the quadrant in the bore of the gun, and the line of the
+bob against the graduated quarter-circle showed the gun's angle of elevation.
+
+The addition of the quadrant to the art of artillery opened a whole new field for the mathematicians,
+who set about compiling long, complicated, and jealously guarded tables for the gunner's guidance.
+But the theory was simple: since a cannon at 45° elevation would fire ten times farther than
+it would when the barrel was level (at zero° elevation), the quadrant should be marked into
+ten equal parts; the range of the gun would therefore increase by one-tenth each time the gun
+was elevated to the next mark on the quadrant. In other words, the gunner could get the range
+he wanted simply by raising his piece to the proper mark on the instrument.
+
+Collado explained how it worked in the 1590's. "We experimented with a culverin that fired
+a 20-pound iron ball. At point-blank the first shot ranged 200 paces. At 45-degree elevation
+it shot ten times farther, or 2,000 paces.... If the point-blank range is 200 paces, then elevating
+to the first position, or a tenth part of the quadrant, will gain 180 paces more, and advancing
+another point will gain so much again. It is the same with the other points up to the elevation
+of 45 degrees; each one gains the same 180 paces." Collado admitted that results were not always
+consistent with theory, but it was many years before the physicists understood the effect of
+air resistance on the trajectory of the projectile.

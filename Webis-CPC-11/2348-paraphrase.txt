@@ -1,0 +1,7 @@
+B.
+
+ANAGRAMS.
+
+   " I saw TENT SUDS by the BATTLE-SCREENS, puzzling over THE MICA MATS, and perplexed about MANY ROOTS."
+     The words printed in capitals are anagrams of the words that should occupy the same places, so as to make sense.
+     BATTLE-SCREENS is a compound-word that takes place of the right word, "centre-table".But all other words in  capital are anagrams with single word.

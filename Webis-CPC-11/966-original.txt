@@ -1,0 +1,4 @@
+One line at the top of a page, shown as a row of
+  asterisks, is entirely missing. Other words have been reconstructed
+  from their surviving portions; the conjectural letters are shown in
+  {braces}. The html version of this e-text shows the reconstructions.

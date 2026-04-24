@@ -1,0 +1,18 @@
+As the capacity of whose effects are to be neutralized is distributed uniformly along the whole line, inductance counter must also be distributed throughout the line. simply increasing the distance between two wires of the line very happy acts both to increase inductance and reduce capacity, unfortunately for practical results, increasing the separation to the qualities in relation to neutralize useful is beyond the limits practical. The cables would have to be so far above the earth and so far as to make impossible the trade agreement. 
+The practical results have been secured in the distributed inductance increased by wrapping fine iron wire on each conductor of the line. This treatment increases the inductance and improves the transmission. 
+
+The most notable success was the result of the studies of Professor Michael Pupin Idvorsky. Inductance is inserted in series with the wires of the line, so its constant adaptation to the circuit attenuation and distortion are reduced to a satisfactory degree. This method of counteracting the effects of a distribution capacity by inserting inductance located not only requires that the total required amount of inductance is known, but the subdivision and the proper spacing of the local portions of the inductance to be known. 
+
+NOTE. U.S. Certificate were issued to Professor Pupin the June 19, 1900, in his practical way of reducing attenuation of electrical waves. In a paper on "The propagation of electric waves along" was read by Professor Pupin before the American Institute of Electrical Engineers on March 22, 1899, and appears in vol. 15 transactions of that society. The student will find these documents useful in their studies on the subject. He also refers to "electronic documents" and "Electromagnetic Theory" by Oliver Heaviside. 
+
+Pupin Professor compares the transmission of electric waves through long distance circuits to the transmission of mechanical waves in a string. Designing a light string current is fixed at one end and shake his hand in the other; waves pass over the chain of the shake up the fixed end. Reflections occur from the anchored end. The amount of energy that can be sent in this case is the shock to the small fixed point, but if the bullets load chain attaching to it, uniformly throughout its length, which can now transmit much more energy than the fixed end. 
+
+The addition of inductance to a telephone line is analogous to the addition of bullets to the chain, so that a telephone line is said to be charged to the inductances are inserted in it, and the inductances own are known as load coils. 
+
+Fig. 35 shows the general relationship of Pupin loading coils on the ability of the line. The capacitors in the figure are merely conventional capacitor to represent the line itself forms. The inductances of the figure are the real load coils.
+
+The burden of the threads open is not as effective in practice as is the cable. The fundamental reason lies in the fact that two of the properties of open strings - the isolation and the ability - vary with the weather. Inserted inductance remains constant, your benefits may become inconvenient when the other two "constant" changes. 
+
+The burden of cable channels is not subject to these defects. This improves the load transfer, saving copper; allows the use of underground cables as they can be used when no loads, reduce maintenance costs by placing long-distance underground cables, and permits the submarine cables to join your sites can not otherwise talk yes. 
+
+Long-haul Metro bind or bind to Boston and New York, Philadelphia and New York, Milwaukee and Chicago. England and France are linked by an undersea cable loaded. There is no theoretical reason why Europe and America should talk to each other.

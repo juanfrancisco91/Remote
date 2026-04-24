@@ -1,0 +1,36 @@
+
+I will now endeavor to show why the new cable will not be liable to this difficulty, to anything
+like the same extent.
+
+I have alluded to the resistance offered by the conductor of a telegraph-cable to the passage
+of an electric current, and to the retardation of this current by static induction. The terms
+retardation and resistance are not considered technically synonymous, but are intended, as
+electrical terms, to designate two very different forces. The resistance of a wire, as we have
+seen above, is proportional to its length, and inversely to its diameter. It is overcome by
+increasing the number of cells in the battery, or, in other words, by increasing the intensity
+or force of the current. The retardation in a telegraphic cable, on the contrary, is proportional
+to the length of the conducting-wire and the intensity of the battery. In the former case,
+by increasing the electrical force you overcome the resistance; while in the latter, by augmenting
+the electrical force you increase the retardation.
+
+From the foregoing law it will be seen that there are two ways of lessening the resistance
+upon telegraphic conductors,--one by reducing the length, and the other by increasing the area
+of the section of the conducting-wire. If, then, by comparison, we estimate the resistance
+in the old Atlantic cable to have been equal to two thousand miles of ordinary telegraph-wire,
+the increased size of the conducting-wire of the new cable reduces the resistance to one-fifth
+that distance, or four hundred miles. And while it required two hundred cells of battery to
+produce intensity sufficient to work over the two thousand miles of resistance in the old cable,
+it will require but one-fifth as much, or forty cells, to overcome the four hundred miles of
+resistance in the new cable. The retardation which resulted from the intense current generated
+by two hundred cells will be also proportionately reduced in the comparatively small battery
+of forty cells. Thus we perceive, that, while the length of the cable is, electrically and
+practically, reduced to one-fifth of its former length, the retardation of the current is also
+decreased in the same proportion. Therefore, if, with the old cable, three words per minute
+could be transmitted, with the new cable we shall be able to transmit five times as many, or
+fifteen words per minute. This is not equal to our Morse system on the land-lines, which will
+signal at the rate of thirty-five words per minute, still less to the printing system, which
+can signal at the rate of fifty words per minute; but, even at this rate, the cable would be
+enabled to transmit in twenty-four hours one thousand despatches containing an average of twenty
+words apiece. Mr. Field, however, claims for the cable a speed of only twelve words per minute,
+which would reduce the number of despatches of twenty words each that could be transmitted
+in twenty-four hours to eight hundred and sixty-four.

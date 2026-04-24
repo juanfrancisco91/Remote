@@ -1,0 +1,54 @@
+
+The storage room is fitted with shelves for the storage of samples being held for 28-day tests.
+
+The mould-cleaning room contains tables for cleaning moulds, and racks for air pats.
+
+An effort is made to keep all the rooms at a temperature of 70° Fahr., and, with this in view,
+a Bristol recording thermometer is placed in the briquette-room. Two wet-and-dry bulb hygrometers
+are used to determine the moisture in the air.
+
+Samples are taken from the conveyor which carries the cement to the storage bins, at the approximate
+rate of one sample for each 100 bbl. After each 4,000-bbl. bin has been filled, it is sealed
+until all tests have been made, when, if these have been satisfactory, it is released for shipment.
+
+The samples are taken in cans, 9 in. high and 7½ in. in diameter. These cans are delivered
+in the preparation room where the contents are mixed and passed through a No. 20 sieve. Separate
+samples are then weighed out for mortar briquettes, for soundness pats, and for the specific-gravity
+and fineness tests. These are placed in smaller cans and a quantity sufficient for a re-test
+is held in the storage room awaiting the results of all the tests.
+
+The sample for briquettes is mixed with three parts standard crushed quartz, and then taken
+to the briquette-making room, where eight briquettes are made, four for 7-day and four for
+28-day tests. These are placed in the moist closet in damp air for 24 hours, then removed from
+the moulds, and placed in water for the remainder of the test period. At the proper time they
+are taken from the immersion tank and broken.
+
+From the sample for soundness, four pats are made. The time of setting is determined on one
+of these pats. They are placed in the pan previously described, for 24 hours, then one is placed
+in running water and one in air for 28 days. The others are treated in the boiler, one in boiling
+water for 3 hours and one in steam at atmospheric pressure for 5 hours.
+
+The sample taken for specific gravity and fineness is dried in the oven at 100° cent. in order
+to drive off moisture. Two samples are then carefully weighed out, 50 grammes for fineness
+and 64 grammes for specific gravity, and the determinations are made. As soon as anything unsatisfactory
+develops, a re-test is made. If, however, the cement satisfies all requirements, a report sheet
+containing all the data for a bin, is made out, and the cement is ready for shipment. From
+every fifth bin, special neat and mortar briquettes are made, which are intended for tests
+at ages up to ten years.
+
+Salt-Water Laboratory.--The laboratory at Atlantic City, for conducting investigations into
+the effects of salt water on concrete and reinforced concrete, is situated so that water more
+than 25 ft. deep is available for immersion tests of the setting and deterioration of such
+materials.
+
+Through the courtesy of the municipality of Atlantic City, Young’s cottage, on old Young’s
+Pier, has been turned over, at a nominal rental, to the Geological Survey for the conduct of
+these tests. The laboratory building is about 700 ft. from the boardwalk, and occupies a space
+about 100 by 45 ft. It is one story high, of frame-cottage construction, and stands on wooden
+piles at one side of the pier proper and about 20 ft. above the water, which is about 19 ft.
+deep at this point. Fresh running water, gas, electric light, and electric power are supplied
+to the building (Fig. 6).
+
+In this laboratory investigations will be made of the cause of the failure and disintegration
+of cement and concrete subjected to the action of sea water. Tests are conducted so as to approach,
+as nearly as possible, the actual conditions found in concrete construction along the sea coast.

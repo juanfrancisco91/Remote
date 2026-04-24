@@ -1,0 +1,6 @@
+The existence
+of arcs between the granules never has been seen or otherwise observed under normal working
+conditions of a transmitter; when arcs surely are experimentally established between the granules
+the usefulness of the transmitter ceases. The final theory, that change of pressure changes
+area of surface contact, does not explain why other conductors than carbon are not good materials
+for transmitters. This, it may be noticed, is just what the theories set out to make clear.

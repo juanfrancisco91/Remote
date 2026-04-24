@@ -1,0 +1,8 @@
+The necessary
+points to investigate are four in number, and may be headed as follows:
+
+(a) Examination of pipes and partitions for oil leakage.
+
+(b) Determination of volume of oil flowing through each bearing per unit of time.
+
+(c) Examination for signs of water in oil.

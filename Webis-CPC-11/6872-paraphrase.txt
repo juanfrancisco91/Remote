@@ -1,0 +1,20 @@
+Careful notes are kept of the engine operation; the gas consumption and the load on the engine are observed and recorded every 20 min.; the quantity of jacket water used on the gas engine, and also its temperature entering and leaving the engine jackets, are recorded every hour.
+Indicator cards are taken every 2 hours.
+
+The work is continuous, and each day is divided into three shifts of 8 hours each; the length of a test, however, is determined very largely by the character and behavior of the fuel used.
+
+A preliminary study of the relative efficiency of the coals found in different portions of the United States, as producers of illuminating gas, has been nearly completed under the direction of Mr. Alfred H. White, and a bulletin setting forth the results is in press.[23]
+
+Tests of Liquid Fuels.--Tests of liquid fuels in internal-combustion engines, in charge of Mr. R. M. Strong, are conducted in the engine-room of Building No. 13.
+
+The various liquid hydro-carbon fuels used in internal-combustion engines for producing power, range from the light refined oils, such as naphtha, to the crude petroleums, and have a correspondingly wide variation of physical and chemical properties.
+
+The most satisfactory of the liquid fuels for use in internal-combustion engines, are alcohol and the light refined hydro-carbon oils, such as gasoline.
+
+These fuels, however, are the most expensive in commercial use, even when consumed with the highest practical efficiency, which, it is thought, has already been attained, as far as present types of engines are concerned.
+
+At present little is known as to how far many of the very cheap distillates and crude petroleums can be used as fuel for internal-combustion engines.
+
+It is difficult to use them at all, regardless of efficiency.
+
+Gasoline is comparatively constant in quality, and can be used with equal efficiency in any gasoline engine of the better grade.

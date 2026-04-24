@@ -1,0 +1,3 @@
+Schoenbein's ozonometer is a system for detecting ozone in the atmosphere. It is a set of 750 strips of specially treated paper that turns blue on exposure to ozone. The depth of colour varies according to the amount of ozone detected. After exposure, some water is applied to the strip to produce the colour. 
+
+The kit also includes full instructions and a guide to the shades produced. 750 strips is sufficient to take 2 daily observations, every day for an entire year.

@@ -1,0 +1,31 @@
+Requirements
+Fluent English (reading and writing).  
+Task Description
+Rewrite the original text found below so that the rewritten version has the same meaning, but a completely different wording and phrasing.
+
+Imagine a scholar copying a friend's homework just before class, or a plagiarist willing to use the original text without proper quotation.
+
+More specifically, you may
+
+replace words or phrases with synonyms or analogies, 
+rearrange, split, or combine sentences or paragraphs, 
+write parts of the text in your own words, 
+delete parts of the text, and 
+introduce new text related to the topic, 
+change active to passive voice, or vice versa, 
+change tense, narrator, or style. 
+You may not
+
+make only minor or trivial changes to the original, 
+copy a related text from the Web. 
+Motivation
+We wish to create a large collection of manually rewritten texts in order to evaluate detection algorithms.
+
+Rejection Policy
+By accpeting this HIT you agree to the following rejection policy.
+A HIT is rejected
+
+if only minor changes are made to the original text, 
+if the text produced has a different meaning than the original, 
+if the text produced is not human-readable. 
+Note further that your work will also be checked as a whole, and not only HIT by HIT. Be aware, that many accepted HITs do not necessarily lead to continued acceptance, i.e., we will frequently recheck your work. Rest assured, however, that we will try to be reasonable: no one gets rejected entirely just because of one rejection.

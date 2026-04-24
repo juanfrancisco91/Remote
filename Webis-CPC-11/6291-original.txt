@@ -1,0 +1,40 @@
+
+It is often said that the Mendelian formula has a very limited applicability to human heredity.
+This is probably true if we consider carefully the grammatical tense in which this statement
+is made. And yet it is almost certainly true that heredity in man is to be described by this
+law. This apparent paradox is easily explained. The only characters whose history in heredity
+follows this formula are the unit characters. A complex trait is not heritable, as a whole,
+but its components behave in heredity as the separate units. It is perfectly well known that
+we are deeply ignorant regarding this phase of human structure. Our ignorance here is not the
+necessary kind, however, it is merely due to the newness of the subject--we have not had time
+to find out. How can we say that a complex trait is or is not inherited according to some form
+of Mendel's law when we do not know the nature of the units of which it is composed? We can
+make no statements about the Mendelian inheritance of such a trait until it is factored into
+its units. A considerable number of human characteristics are really known to be heritable
+according to this formula, enough so that several general rules of human heredity have been
+formulated. But it is also quite within the range of possibility that some traits really do
+not follow this law, although it cannot yet be said definitely that this is or is not the case.
+On the whole, then, we cannot, for the next few years, expect too much from the application
+of Mendel's laws to human heredity, however much this is to be regretted.
+
+Shall we then decline to say anything about the heredity of the great bulk of human characteristics?
+By no means: we have seen that in our bagatelle board we talk very definitely about the distribution
+of all the peas, though only about the probable history of one pea. Mendel's law deals with
+individual inheritance. When we cannot apply this formula we have left still the possibility
+of talking about human heredity in the group as a whole. That is to say, we have left the opportunity
+of describing heredity by the statistical methods, with the crowd, not the individual, as the
+unit. Since we are forced into extensive use of this formula by our present and temporary ignorance
+of the applicability of Mendel's rule we must get a clear notion of how the statistical method
+is applied in this matter.
+
+The method is the same as that employed by the statistician in measuring the relatedness of
+any two series of varying phenomena. If two quantities or characteristics are so related that
+fluctuations in the one are accompanied in a regular manner by fluctuations in the other, the
+two quantities or characters are said to be correlated. For instance, the temperature and the
+rate of growth of sprouting beans are related in such a way that increase in the former is
+accompanied in a regular way by increase in the latter; or the width and height of the head,
+or the total stature and the length of the femur similarly vary regularly together so that
+they are said to be correlated to a certain extent which can be measured. This correlation
+may result from the fact that one condition is a cause, either direct or indirect, of the other;
+or there may be no such causal relation between the two phenomena, both resulting more or less
+independently from a common antecedent condition or cause.

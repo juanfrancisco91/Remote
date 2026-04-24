@@ -1,0 +1,20 @@
+This is provided for by carbon packing (Fig.
+12), which consists of blocks of carbon in sets in a packing case bolted to the top head of
+the wheel-case. There are three sets of these blocks, and each set is made of two rings of
+three segments each. One ring of segments breaks joints with its mate in the case, and each
+set is separated from the others by a flange in the case in which it is held. In some cases
+the packing is kept from turning by means of a link, one end of which is fastened to the case
+and the other to the packing holder. Sometimes light springs are used to hold the packing against
+the shaft and in some the pressure of steam in the case does this. There is a pipe, also shown
+in Fig. 12, leading from the main line to the packing case, the pressure in the pipe being
+reduced. The space between the two upper sets of rings is drained to the third stage by means
+of a three-way cock, which keeps the balance between the atmosphere and packing-case pressure.
+The carbon rings are fitted to the shaft with a slight clearance to start with, and very soon
+get a smooth finish, which is not only practically steam-tight but frictionless.
+
+The carbon ring shown in Fig. 12 is the older design. The segments are held against the flat
+bearing surface of the case by spiral springs set in brass ferrules. The circle is held together
+by a bronze strap screwed and drawn together at the ends by springs. Still other springs press
+the straps against the surface upon which the carbon bears, cutting off leaks through joints
+and across horizontal surfaces of the carbon. The whole ring is prevented from turning by a
+connecting-rod which engages a pin in the hole, like those provided for the springs.

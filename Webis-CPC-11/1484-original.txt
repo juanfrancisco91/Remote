@@ -1,0 +1,6 @@
+It is evident, therefore,
+that the wire may be continued to such a length that the current will no longer have sufficient
+intensity to produce at the station to which the despatch is transmitted those effects by which
+the language of the despatch is signified. But the intensity of the current transmitted by
+a given voltaic battery upon a wire of given length will be increased in the same proportion
+as the area of the section of the wire is augmented.

@@ -1,0 +1,35 @@
+The windlass is made in a conical form, being a little larger
+at one end, than at the other; and if the friction of its bearings be relieved by the ordinary
+friction rollers, it will so far multiply the force applied, as to break a double inch-rope,
+by the power of one man at the crank. An endless rope, or one of which the two ends are spliced
+together, is passed five or six times round the small end of the windlass, and down under a
+single pulley below: then, as the windlass is turned by the crank, the rope is constantly given
+off from one part, while the circumference is greater. Now it is plain, that if the windlass
+is one-fifth of an inch larger in circumference, at the point at which the rope is taken up,
+than at the place where it is given off to the pulley, that whatever may be appended thereto,
+will be raised one tenth of an inch by each revolution Then, if we suppose the crank lever
+to be fifteen inches, the handle will travel about 100 inches, in each revolution, which gives
+a power, or increase of force, of 1000 to one. Therefore, if 100 pounds of power be applied
+to the crank handle, it will be sufficient--minus friction--to raise a weight of 100,000 lbs.
+The only inconvenience in this apparatus, and which prevents its coming into more general use,
+is, that it is too limited in the extent of its motion, in consequence of the travelling of
+the rope from one end of the windlass to the other. Thus, if the windlass be but twenty-five
+inches long, and the rope one inch in diameter, it will admit only twenty revolutions, without
+renewing. Yet, in many cases, in which an article in required to be raised, or moved but a
+few inches, the conical windlass will be found preferable to any other method.
+
+       *       *       *       *       *
+
+REQUISITE STRENGTH OF STEAM BOILERS.
+
+Our correspondent S. B. cannot comprehend that the strength of iron for a cylindrical boiler
+should Be in direct proportion to the diameter thereof, in order to sustain an equal pressure
+per square inch; wherefore, we must reason with him on the long scale. The cohesive strength
+of good iron is 64,000 lbs. per square inch; and of course, a strip of boiler-iron plate 1/8th
+inch thick will sustain 8000 lbs. If a boiler made of thin iron is 14 inches in diameter, or
+44 inches in circumference, each inch of its length will contain 44 square inches, and either
+half thereof will contain 22 inches, and as the pressure on this portion is sustained by at
+least two inches of width of plate,--one inch on each side,--it follows that it will sustain
+a pressure of at least 700 lbs. per square inch, in the direction of circumference. If the
+diameter is double, the number of square inches will be double, and will require double the
+thickness to sustain equal pressure.

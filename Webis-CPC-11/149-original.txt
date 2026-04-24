@@ -1,0 +1,3 @@
+To classify cases from records without personal knowledge of
+each case, and then simply to count the cases, is a very inadequate method of arriving at the
+truth. The primary difficulty, of course, is to reach a classification.

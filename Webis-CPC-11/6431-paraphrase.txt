@@ -1,0 +1,13 @@
+The lesser consumption of oil in a turbine excluding the facts of spilling and leakage influences the consideration of the nature of oil to suit with the purpose that has to be accomplished.Higher the viscosity of the oil, more will be the semi-solid or the jelly-like presence of the oil. It is also evident that highly viscous oils are not suitable for turbines.
+
+An optimal and an alternative oil is the use of central gravity oil system instead of furnishing the  oil system with the turbines. But the major consideration should be the effective operation of the central gravity oiling system since its malfunctioning could cause irrevocable results. Proper planning on the design should be made in order to make an efficient use of such systems. The major merit in using such a system is the extended life of the oil. This is achieved by making the oil to settle for a long time before it gets used. This facilitates the use of even lower grade oils which are free from acidity.
+
+V.OPTIMAL METHOD OF EXAMINING A STEAM TURBINE
+
+[3] Inspired from the concepts by Thomas Franklin.
+
+The most instrumental part of a turbine is a condensing that arrangement that may have a barometric or jet condenser. These cannot be weighed or measured directly. Even measuring my meter is possible it cannot afford to give out guarantees in their usage towards test cases. The result of the amount of steam consumed can be acquired by examining the amount of water condensed and subtracting the condenser's total outflow. In the event of turbine being equipped with a barometric jet condenser the measurement can be made by examining the boiler feed and the initial and final contents as well. Surface-condensed turbines gives better mechanisms to measure the steam consumptions when compared to the systems in which the condensed outlet steam and the circulating water collides each other. In such systems the condensed steam is to be pumped out to a measuring tank.
+
+For turbines of Parsons single-flow type, the check on rows of the blades is to be done for checking the irregularities, deposits and for calculating the other differences in true radial and vertical positions. Tests should not be concluded under a doubt being held. The blade clearances also should be gaged around the boundaries of the blades to insure average working minimum.
+
+On the high pressure end, the dummy rings should be given special attention. They prevent extreme leakage past the balancing positions. Fig.60 shows a  schematic representation of the turbine for the benefit of novice. A being the cylinder and B is the rotor, so called the spindle and C being the blade.

@@ -1,0 +1,30 @@
+They will cut out on
+any line u in the plane two point-rows which are easily seen to be projective. For, given any
+four rays SP which are harmonic, the four corresponding rays SP’ must also be harmonic, since
+they make the same angles with each other. Four harmonic points P correspond, therefore, to
+four harmonic points P’. It is clear, however, that no point P can coincide with its corresponding
+point P’, for in that case the lines PS and P’S would coincide, which is impossible if the
+angle between them is to be constant.
+
+*49. Fundamental theorem. Postulate of continuity.* We have thus shown that two projective
+point-rows, superposed one on the other, may have two points, one point, or no point at all
+corresponding to themselves. We proceed to show that
+
+If two projective point-rows, superposed upon the same straight line, have more than two self-corresponding
+points, they must have an infinite number, and every point corresponds to itself; that is,
+the two point-rows are not essentially distinct.
+
+If three points, A, B, and C, are self-corresponding, then the harmonic conjugate D of B with
+respect to A and C must also correspond to itself. For four harmonic points must always correspond
+to four harmonic points. In the same way the harmonic conjugate of D with respect to B and
+C must correspond to itself. Combining new points with old in this way, we may obtain as many
+self-corresponding points as we wish. We show further that every point on the line is the limiting
+point of a finite or infinite sequence of self-corresponding points. Thus, let a point P lie
+between A and B. Construct now D, the fourth harmonic of C with respect to A and B. D may coincide
+with P, in which case the sequence is closed; otherwise P lies in the stretch AD or in the
+stretch DB. If it lies in the stretch DB, construct the fourth harmonic of C with respect to
+D and B. This point D’ may coincide with P, in which case, as before, the sequence is closed.
+If P lies in the stretch DD’, we construct the fourth harmonic of C with respect to DD’, etc.
+In each step the region in which P lies is diminished, and the process may be continued until
+two self-corresponding points are obtained on either side of P, and at distances from it arbitrarily
+small.

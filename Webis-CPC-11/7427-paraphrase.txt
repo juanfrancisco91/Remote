@@ -1,0 +1,42 @@
+We can let the line, effects, represent the limit of air resistance when the field is drawn to scale, and thus, we can trace the conditions that determine the flashover. 
+If 
+
+land surface is not flat but have a hill or building, as H or L, on her, then the lines of force and equipotential planes are distorted, as shown in Fig. 3. If the hill or a building so high that the distance h H ol L equal to EF (Fig. 2), then again have flashover. 
+
+If instead of a hill or a building we built a solid bar of metal, GH, then the field is distorted as shown in Fig. 4. Now it is clear that whatever the relative distance of the cloud and the earth, or whatever the movement of the cloud, there must be a space, gg ', that along the lines of force must be longer than a "one or HH" and therefore should be a circle described about G as a center that is less subject to discharge harmful than the space outside the circle, and therefore, this area can be said to be protected by the bar, G H. The same reasoning applies to each equipotential plane, and as every circle of radius decreases as you ascend, it follows that virtually bar protects a cone of space with a height rod, and whose base is the circle described by the radio, G a. It is important to know what this radio is. 
+
+Suppose a storm cloud approaches the bar AB (Fig. 5), from above, and has reached a point, D ', where the distance. D 'B, is equal to the perpendicular height, D' C '. Clearly, if the potential at D increased striking distance to be attained, the discharge line is set to 'C or D' DB, and that the duration, A ', is under protection. Now, the closer to the point D 'is D, the shorter the length of CA under protection, but the minimum duration of CA, as the cloud did not descend lower than the perpendicular distance D C. 
+
+Assuming, however, that the cloud had descended to D when the discharge took place. 
+
+Then, the latter would strike to the nearest point and any point on the circumference of the portion of the circle, BC (whose radius is DB) would be at a distance less than D which is the point B or point C. 
+
+Therefore a lightning rod protects a conic space whose height is the length of the rod, whose base is a circle having its radius equal to the height of the bar, and which side is the quadrant of a circle whose radius is equal to the height of the bar. 
+
+I have carefully examined all records of accidents was available, and have not yet found a case where the damage was caused inside the cone, when the building was properly protected. 
+
+There are many cases where the pinnacles of the tower of a church itself has drawn attention to when you've had a rod attached to it, but it is clear that the pinnacles others were outside the cone, and therefore, for protection, each Summit has had its own bar. 
+
+It is also clear that all the highlights of a building must have its staff, and that the higher the bar, the space is protected. 
+
+* * * * * 
+
+PHOTO-ELECTRIC CRYSTAL fluor spar. 
+
+Hantzel has informed the Royal Society of Science of Saxony some interesting observations on the production of electricity for light in color fluor-spar. 
+
+The centers of the cubes of fluor-spar is negatively electric by the action of light. 
+
+The voltage decreases toward the edges and angles, and often positive polarity is produced there. 
+
+Sensitive crystals a short exposure to daylight is sufficient, by prolonged exposure to light of increasing power. 
+
+The direct rays of the sun act much more strongly than the diffuse daylight and electric light carbon is more powerful even than sunlight. The action photoelectric light belongs mainly to the "chemically active" rays, which is demonstrated by the fact that electricity production is extremely small behind a stained glass with copper oxide, and behind a film of a quinine sulfate solution, although not significantly diminished by a film of an alum solution. Photoelectric excitability-fluor spar crystals increases by a moderate heat (80 gr. 100 degrees. C.). 
+
+* * * * * 
+
+The Aurora Borealis and telegraph cables. 
+
+The January and February issues of the Zeitschrift Elektrotechnische contain a series of articles on the subject interesting for several eminent electricians. 
+
+Professor Foerster, director of the Berlin observatory, said the importance of careful study of earth currents, observed for the first time in Greenwich, and now being investigated by a committee appointed by the German Government.

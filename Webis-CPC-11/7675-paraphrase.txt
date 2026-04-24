@@ -1,0 +1,1 @@
+More tests may be neccessary of the test pieces.  The inspector selects the test pieces from the top end of any particular rails of the same heat.  The rule is if two out of the three of the second group of test pieces breaks, then the rest of the heat will also be rejected unilaterally.

@@ -1,0 +1,55 @@
+But, though the irregular, contradictory,
+and unaccountable effects observed in these experiments do not as yet furnish any satisfactory
+theory, and though much is to be attributed to the circumambient air, yet the metallic substances
+themselves seem to be endowed with properties peculiar to each of them, and it is principally
+in consequence of those properties that the produced electricity is sometimes positive, at
+other times negative, and various in its intensity.'
+
+Cavallo then proceeds to describe the experiments on contact electrification which were described
+in the previous paper referred to at the beginning of the article.
+
+Cavallo's experiments were evidently made in 1795. In the following year Volta announced the
+discovery of the electrical current. In a letter written to Gren's Neues Journal der Physik,
+August, 1796, Volta says:
+
+'The contact of different conductors, particularly the metallic, including pyrites and other
+minerals as well as charcoal, which I call dry conductors, or of the first class with moist
+conductors, or conductors of the second class, agitates or disturbs the electric fluid, or
+gives it a certain impulse. Do not ask in what manner: it is enough that it is a principle
+and a great principle.'
+
+It will be seen that at this stage of his discovery Volta was inclined to attribute tho origin
+of the current to the contact between the metals and his moist "conductors of the second class,"
+though later in the same article he says it is impossible to tell whether the impulse which
+sets the current in motion is to be attributed to the contact between the metals themselves
+or between the two metals and the moist conductor, since either supposition would lead to the
+same results.
+
+Later, as was shown in the previous paper by the present writer Volta came to regard the metallic
+contact as the cause of the electromotive force. In a letter written to Gren in 1797 and published
+as a postscript to his letter of August, 1796, Volta says:
+
+'Some new facts, lately discovered, seem to show that the immediate cause which excites the
+electric fluid, and puts it in motion, whether it be an attraction or a repulsive power, is
+to be ascribed much rather to the mutual contact of two different metals, than to their contact
+with moist conductors.'
+
+The new facts, "lately discovered," to which Volta attributes his change of view were his repetitions
+of Bennett's experiments of 1789.
+
+Volta apparently thought that the current was not only set up by the contact of the two metals
+of a pair, but that it was kept up by the mutual action of the metals on each other. He accordingly
+made no attempt to discover whether any changes took place in his circuit while the current
+was being generated. The chemical action on his metals and the dissociation in his electrolyte
+seem to have entirely escaped his attention. At least, he did not attach enough importance
+to them to mention them anywhere in his description of his apparatus.
+
+In the meantime a chemical explanation of the phenomena observed by Galvani had been proposed
+in 1792 by Fabroni, a physicist of Florence. After discussing the Sulzer phenomenon already
+mentioned in this paper, Fabroni argues that the peculiar taste caused by bringing the two
+metals into contact while on the tongue is due to a chemical, rather than to an electrical,
+action. He then discusses the different chemical behavior of metals when taken singly and when
+placed in contact with other metals. He says:[2]
+
+[2] The following quotations from Fabroni have been translated by the present writer from the
+German of Ostwald's "Elektrochemie," pp. 103, ff.

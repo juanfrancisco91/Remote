@@ -1,0 +1,12 @@
+
+B.
+
+ANAGRAMS.
+
+In the following sentence, the words printed in capitals are anagrams of the words that should
+occupy the same places, so as to make sense. Thus: BATTLE-SCREENS is a compound-word that takes
+the place of another to be formed of the same letters arranged differently; the right word,
+in this example, being "center-table;" but each of the other collections of capitals is an
+anagram of but a single word.
+
+I saw TENT SUDS by the BATTLE-SCREENS, puzzling over THE MICA MATS, and perplexed about MANY ROOTS.

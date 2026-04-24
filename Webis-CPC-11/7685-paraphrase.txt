@@ -1,0 +1,9 @@
+H.A.S.
+
+WORD-SQUARES ANAGRAM
+
+Make a word-square from the letters composing each of the following four sentences: 
+1. Do Irish histories make mistakes doctor?
+2. Let their hotel gardener smile. 
+3. Man's sympathy was needed in the post.
+4. Hurray! Peg has a gallant puppy.

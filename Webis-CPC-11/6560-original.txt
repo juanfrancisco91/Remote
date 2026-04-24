@@ -1,0 +1,53 @@
+These wooden drain-pipes are made in short lengths, strengthened by a spiral wrapping of metal
+bands, and are tested to a pressure of 40 lb. per sq. in. Angles are turned and branches connected
+in 4- and 6-in. square headers.
+
+The entire building is ventilated by a force or blower fan in the basement, and by an exhaust
+fan in the attic with sufficient capacity to insure complete renewal of air in each laboratory
+once in 20 min.
+
+The blower fan is placed in the center of the building, on the ground floor, and is 100 in.
+in diameter. Its capacity is about 30,000 cu. ft. of air per min., and it forces the air, through
+a series of pipes, into registers placed in each of the laboratories.
+
+The exhaust fan, in the center of the attic, is run at 550 rev. per min., and has a capacity
+of 22,600 cu. ft. of air per min. It draws the air from each of the rooms below, as well as
+from the hoods, through a main pipe, 48 in. in diameter.
+
+Steaming and Combustion Tests.--The investigations included under the term, fuel efficiency,
+relate to the utilization of the various types of fuels found in the coal and oil fields, and
+deal primarily with the combustion of such fuels in gas producers, in the furnaces of steam
+boilers, in locomotives, etc., and with the efficiency and utilization of petroleum, kerosene,
+gasoline, etc., in internal-combustion engines. This work is under the general direction of
+Mr. R. L. Fernald, and is conducted principally in Buildings Nos. 13 (Plate XVII) and 21.
+
+For tests of combustion of fuels purchased by the Government, the equipment consists of two
+Heine, water-tube boilers, each of 210 h.p., set in Building No. 13. One of these boilers is
+equipped with a Jones underfeed stoker, and is baffled in the regular way. At four points in
+the setting, large pipes have been built into the brick wall, to permit making observations
+on the temperature of the gas, and to take samples of the gas for chemical analysis.
+
+The other boiler is set with a plain hand-fired grate. It is baffled to give an extra passage
+for the gases (Fig. 15). Through the side of this boiler, at the rear end, the gases from the
+long combustion chamber (Plate XVIII) enter and take the same course as those from the hand-fired
+grate. Both the hand-fired grate and the long combustion chamber may be operated at the same
+time, but it is expected that usually only one will be in operation. A forced-draft fan has
+been installed at one side of the hand-fired boiler, to provide air pressure when coal is being
+burned at high capacity. This fan is also connected in such a way as to furnish air for the
+long combustion chamber when desired. A more complete description of the boilers may be found
+in Professional Paper No. 48, and Bulletin No. 325 of the U.S. Geological Survey, in which
+the water-measuring apparatus is also described.[13]
+
+On account of the distance from Building No. 21 to the main group of buildings, it was considered
+inadvisable to attempt to furnish steam from Building No. 13 to Building No. 21, either for
+heating or power purposes. In view, moreover, of the necessity of installing various types
+and sizes of house-heating boilers, on account of tests to be made thereon in connection with
+these investigations, it was decided to install these boilers in the lower floor of Building
+No. 21, where they could be utilized, not only in making the necessary tests, but in furnishing
+heat and steam for the building and the chemical laboratories therein.
+
+In addition to the physical laboratory on the lower floor of Building No. 21, and the house-heating
+boiler plant with the necessary coal storage, there are rooms devoted to the storage of heavy
+supplies, samples of fuels and oils, and miscellaneous commercial apparatus. One room is occupied
+by the ventilating fan and one is used for the necessary crushers, rolls, sizing screens, etc.,
+required in connection with the sampling of coal prior to analysis.

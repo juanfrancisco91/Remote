@@ -1,0 +1,26 @@
+It appears to be difficult to get
+the tungsten to alloy, and it has to be added to part of the copper as phosphide of tungsten,
+in considerably greater quantity than is finally required.  The nickel is added to part of
+the copper and the phosphide of tungsten, then the zinc, and then the rest of the copper. 
+The alloy requires to be remelted several times, and a good deal of tungsten is lost by oxidation.
+
+The alloy is of a fine white colour, and is very little affected by air--in fact, it is to
+some extent untarnishable.  The specific resistance will be seen to be about one and a half
+times greater than that of German silver, and the temperature coefficient is about 0.021 per
+cent per degree C.  (i.e.  about nineteen times less than copper, and half that of German silver).
+To all intents and purposes it may be regarded as German silver with 1 per cent to 2 per cent
+of tungsten.  It does not appear to have been particularly examined for secular changes of
+resistance.
+
+118.  German Silver.  This material has been exhaustively examined of late years by Klemencic
+and by Feussner and St. Lindeck.  Everybody agrees that German silver, as ordinarily used for
+resistances, and composed of copper four parts, zinc two parts, nickel one part, is very ill-fitted
+for the purpose of making resistance standards.  This is due (1) to its experiencing a considerable
+increase in resistance on winding.  Feussner and St.  Lindeck found an increase of 1 per cent
+when German silver was wound on a core of ten wire diameters.
+
+(2) To the fact that the change goes on, though with gradually decreasing rate, for months
+or years;
+
+(3) to the fact that the resistance is permanently changed (increased) by heating to 40° C.
+or over.
